@@ -1,7 +1,7 @@
 # Heading
 Introductorr description of around 80 words for the project carried out. May contain aim or motivation of the project. May include status of project in competions, events etc.
 ## Literature Review
-Must note down literature review done before attempting this project. How does this one stand different from others (if attempted already). Do include [links](https://scholar.google.co.in/citations?view_op=top_venues&hl=en&vq=eng_robotics) 
+Must note down literature review done before attempting this project. How does this one stand different from others (if attempted already). Current scenario in market if present. Do include [links](https://scholar.google.co.in/citations?view_op=top_venues&hl=en&vq=eng_robotics) 
 # Components and materials
 - Write down
 - Materials used
