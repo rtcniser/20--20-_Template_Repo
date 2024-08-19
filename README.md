@@ -1,5 +1,5 @@
-# Heading
-Introductorr description of around 80 words for the project carried out. May contain aim or motivation of the project. May include status of project in competions, events etc.
+# Project / Experiment Name
+Introductory description of around 80 words for the project carried out. May contain aim or motivation of the project. May include status of project in competions, events etc.
 ## Objectives
 - **In bullet points:** Mention the targets / goals of the project
 - **Mention:** How this project is helpful.
